@@ -1,0 +1,124 @@
+<RCC>
+    <qresource prefix="/new/prefix">
+        <file>pic_resource/chargeinfo/battery_1.png</file>
+        <file>pic_resource/chargeinfo/battery_2.png</file>
+        <file>pic_resource/chargeinfo/charge_monitor_1.png</file>
+        <file>pic_resource/chargeinfo/charge_monitor_2.png</file>
+        <file>pic_resource/chargeinfo/column_01.png</file>
+        <file>pic_resource/chargeinfo/column_02.png</file>
+        <file>pic_resource/chargeinfo/column_03.png</file>
+        <file>pic_resource/chargeinfo/column_04.png</file>
+        <file>pic_resource/chargeinfo/stop_charge_1.png</file>
+        <file>pic_resource/chargeinfo/stop_charge_2.png</file>
+        <file>pic_resource/interface/interface_01.png</file>
+        <file>pic_resource/interface/interface_02.png</file>
+        <file>pic_resource/interface/interface_03.png</file>
+        <file>pic_resource/interface/interface_04.png</file>
+        <file>pic_resource/interface/interface_05.png</file>
+        <file>pic_resource/interface/interface_06.png</file>
+        <file>pic_resource/maindialog/app_download_01.png</file>
+        <file>pic_resource/maindialog/app_download_02.png</file>
+        <file>pic_resource/maindialog/card_charge_01.png</file>
+        <file>pic_resource/maindialog/card_charge_02.png</file>
+        <file>pic_resource/maindialog/card_inquiry_01.png</file>
+        <file>pic_resource/maindialog/card_inquiry_02.png</file>
+        <file>pic_resource/maindialog/card_unlock_01.png</file>
+        <file>pic_resource/maindialog/qrcode_charge_01.png</file>
+        <file>pic_resource/maindialog/qrcode_charge_02.png</file>
+        <file>pic_resource/maindialog/card_unlock_02.png</file>
+        <file>pic_resource/maindialog/charge_price_01.png</file>
+        <file>pic_resource/maindialog/charge_price_02.png</file>
+        <file>pic_resource/maindialog/device_info_01.png</file>
+        <file>pic_resource/maindialog/device_info_02.png</file>
+        <file>pic_resource/maindialog/other_service_01.png</file>
+        <file>pic_resource/maindialog/other_service_02.png</file>
+        <file>pic_resource/otherservice/buscard_charge_1.png</file>
+        <file>pic_resource/otherservice/buscard_charge_2.png</file>
+        <file>pic_resource/otherservice/buscard_inquiry_1.png</file>
+        <file>pic_resource/otherservice/buscard_inquiry_2.png</file>
+        <file>pic_resource/otherservice/buscard_unlock_2.png</file>
+        <file>pic_resource/otherservice/card_gecar_1.png</file>
+        <file>pic_resource/otherservice/card_getcar_2.png</file>
+        <file>pic_resource/otherservice/card_post_1.png</file>
+        <file>pic_resource/otherservice/card_post_2.png</file>
+        <file>pic_resource/otherservice/qrcode_getcar_1.png</file>
+        <file>pic_resource/otherservice/qrcode_getcar_2.png</file>
+        <file>pic_resource/otherservice/qrcode_post_02.png</file>
+        <file>pic_resource/otherservice/qrcode_post_1.png</file>
+        <file>pic_resource/otherwidget/button_1.png</file>
+        <file>pic_resource/otherwidget/charge_finish.png</file>
+        <file>pic_resource/otherwidget/charge_price_1.png</file>
+        <file>pic_resource/otherwidget/device_error.png</file>
+        <file>pic_resource/otherwidget/device_info_01.png</file>
+        <file>pic_resource/otherwidget/lock_1.png</file>
+        <file>pic_resource/otherwidget/netstat_bad.png</file>
+        <file>pic_resource/otherwidget/netstat_good.png</file>
+        <file>pic_resource/otherwidget/payoff_gercar.png</file>
+        <file>pic_resource/otherwidget/payoff_gercar_press.png</file>
+        <file>pic_resource/otherwidget/return.png</file>
+        <file>pic_resource/otherwidget/return_press.png</file>
+        <file>pic_resource/otherwidget/return_small_2.png</file>
+        <file>pic_resource/swingcard/swing_card_1.png</file>
+        <file>pic_resource/swingcard/swing_card_2.png</file>
+        <file>pic_resource/swingcard/swing_card_3.png</file>
+        <file>pic_resource/otherwidget/button_02.png</file>
+        <file>pic_resource/otherwidget/button_03.png</file>
+        <file>pic_resource/otherwidget/return_small_1.png</file>
+        <file>pic_resource/otherwidget/swingcard_pic.png</file>
+        <file>pic_resource/otherwidget/button_05.png</file>
+        <file>pic_resource/otherwidget/button_04.png</file>
+        <file>pic_resource/otherwidget/number_press.png</file>
+        <file>pic_resource/otherwidget/number.png</file>
+        <file>pic_resource/otherwidget/charge_start.png</file>
+        <file>pic_resource/interface/charge_link.png</file>
+        <file>pic_resource/chargeinfo/column_energy.png</file>
+        <file>pic_resource/chargeinfo/column_voltage.png</file>
+        <file>pic_resource/chargeinfo/column_current.png</file>
+        <file>pic_resource/chargeinfo/column_price.png</file>
+        <file>pic_resource/otherservice/buscard_unlock_1.png</file>
+        <file>pic_resource/maindialog/customer_service_protect_1.png</file>
+        <file>pic_resource/maindialog/customer_service_protect_2.png</file>
+        <file>pic_resource/maindialog/phone_service_1.png</file>
+        <file>pic_resource/maindialog/phone_service_2.png</file>
+        <file>pic_resource/maindialog/protect_info_1.png</file>
+        <file>pic_resource/maindialog/protect_info_2.png</file>
+        <file>pic_resource/maindialog/char_recode_1.png</file>
+        <file>pic_resource/maindialog/char_recode_2.png</file>
+        <file>pic_resource/otherwidget/button_06.png</file>
+        <file>pic_resource/chargeinfo/charinfo_bg_2.png</file>
+        <file>pic_resource/otherwidget/charend_bill.png</file>
+        <file>pic_resource/otherwidget/charstart_err_icon.png</file>
+    </qresource>
+    <qresource prefix="/screensaver">
+        <file>pic_resource/screensaver/screensaver1.png</file>
+        <file>pic_resource/screensaver/screensaver2.png</file>
+        <file>pic_resource/screensaver/smallphone.png</file>
+    </qresource>
+    <qresource prefix="/carcharstat">
+        <file>pic_resource/car/carstat (1).png</file>
+        <file>pic_resource/car/carstat (2).png</file>
+        <file>pic_resource/car/carstat (3).png</file>
+        <file>pic_resource/car/carstat (4).png</file>
+        <file>pic_resource/car/carstat (8).png</file>
+        <file>pic_resource/car/carstat (9).png</file>
+        <file>pic_resource/car/carstat (10).png</file>
+        <file>pic_resource/car/carstat (5).png</file>
+        <file>pic_resource/car/carstat (6).png</file>
+        <file>pic_resource/car/carstat (7).png</file>
+    </qresource>
+    <qresource prefix="/charway">
+        <file>pic_resource/chargeway/chargebyelectrity_1.png</file>
+        <file>pic_resource/chargeway/chargebyelectrity_2.png</file>
+        <file>pic_resource/chargeway/chargebymoney_1.png</file>
+        <file>pic_resource/chargeway/chargebymoney_2.png</file>
+        <file>pic_resource/chargeway/chargebytime_1.png</file>
+        <file>pic_resource/chargeway/chargebytime_2.png</file>
+        <file>pic_resource/chargeway/cancel_1.png</file>
+        <file>pic_resource/chargeway/cancel_2.png</file>
+        <file>pic_resource/chargeway/charbyauto_1.png</file>
+        <file>pic_resource/chargeway/charbyauto_2.png</file>
+        <file>pic_resource/chargeway/back_1.png</file>
+        <file>pic_resource/chargeway/back_2.png</file>
+        <file>pic_resource/chargeway/bluebkgd.png</file>
+    </qresource>
+</RCC>
